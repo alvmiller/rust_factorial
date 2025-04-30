@@ -1,3 +1,4 @@
+// rustc factorial.rs
 // cargo run
 // cargo test
 
